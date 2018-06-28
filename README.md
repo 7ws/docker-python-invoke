@@ -1,6 +1,6 @@
 # python-nodejs
 
-A Python image that includes [invoke](https://github.com/pyinvoke/invoke/).
+A Python image that includes [Invoke](https://github.com/pyinvoke/invoke/).
 
 
 ## How to use
