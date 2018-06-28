@@ -4,3 +4,4 @@ RUN pip install invoke==1.0.0
 
 # Easier to mount things as /app
 WORKDIR /app
+ENTRYPOINT inv
